@@ -1,29 +1,29 @@
 <div align="center">
   <img src="/assets/images/icon.png" style="width:200px;">
 </div>
-<h1>Pass.In</h1>
+<h1>Order</h1>
 
 <div align="center">
   <a href="#-tecnologias">Tecnologias</a> | <a href="#-o-projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a>
 </div>
 
-<img src="/assets/to_readme/events-image.png">
-<img src="/assets/to_readme/attendee-image.png">
+<img src="/assets/to_readme/nlw-expert-thumbnail.png">
+<img src="/assets/to_readme/nlw-expert-screens.png">
 
   # 👷🏻 O Projeto
-Desenvolvimento de uma aplicação back-end em Node.js, aplicação dos conceitos de API REST, utilizando TypeScript, Fastify como framework, integração do Prisma ORM + SQLite e Zod para validação de dados.
+Desenvolvimento de uma aplicação mobile em React Native, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, Expo Framework, interface com Native Wind, gerenciamento de estado global com Zustand, roteamento por arquivos com Expo Router.
 
- O projeto desenvolvido e ministrado pela Rocketseat no decorrer da trilha de NodeJS da NLW Unite. O programa é um servidor para fornecer e registrar os dados de usuários e eventos para alimentar os front-ends desenvolvidos nas outras trilhas do evento.
+ O projeto desenvolvido e ministrado pela Rocketseat no decorrer da trilha de React Native da NLW Expert. O programa é um aplicativo de cardápio onde os usuários podem fazer o pedido e enviá-los diretamente para o WhatsApp do restaurante.
 
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 
-- <a href="https://www.prisma.io/" target="_blank">Prisma ORM</a> <br>
-- <a href="https://www.typescriptlang.org/docs/" target="_blank">TypeScript</a> <br>
+- <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> <br>
 - <a href="https://nodejs.org/en" target="_blank">NodeJS</a> <br>
-- <a href="https://fastify.dev/" target="_blank">Fastify</a> <br>
-- <a href="https://www.sqlite.org/" target="_blank">SQLite</a> <br>
-- <a href="https://zod.dev/" target="_blank">Zod</a> <br>
+- <a href="https://expo.dev/" target="_blank">Expo</a> <br>
+- <a href="https://www.nativewind.dev/" target="_blank">Native Wind</a> <br>
+- <a href="https://zustand-demo.pmnd.rs/" target="_blank">Zustand</a> <br>
+- <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> <br>
 
 # 💻 Teste a aplicação
 Para rodar o projeto localmente você precisará seguir algumas instruções. <br>
