@@ -33,7 +33,7 @@ Também será necessário utilizar <a href="https://classic.yarnpkg.com/lang/en/
 
   ## Clone o repositório
 ```
-  https://github.com/eduardoangelosimon/Pass.in-Node-Server.git
+  git clone https://github.com/eduardoangelosimon/nlw-expert-rn.git
 ```
   ## Instale todos os pacotes
 
