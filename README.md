@@ -13,7 +13,7 @@
   # 👷🏻 O Projeto
 Desenvolvimento de uma aplicação mobile em React Native, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, Expo Framework, interface com Native Wind, gerenciamento de estado global com Zustand, roteamento por arquivos com Expo Router.
 
- O projeto desenvolvido e ministrado pela Rocketseat no decorrer da trilha de React Native da NLW Expert. O programa é um aplicativo de cardápio onde os usuários podem fazer o pedido e enviá-los diretamente para o WhatsApp do restaurante.
+ O projeto foi desenvolvido e ministrado pela Rocketseat no decorrer da trilha de React Native da NLW Expert. O programa é um aplicativo de cardápio onde os usuários podem fazer o pedido e enviá-los diretamente para o WhatsApp do restaurante.
 
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
